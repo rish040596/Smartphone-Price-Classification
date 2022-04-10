@@ -73,7 +73,7 @@ plt.figure(figsize=(1000, 800))
 sns.heatmap(DataFrame(x_std).corr(), annot=True)
 # ,cmap='cubehelix_r')
 plt.show()
-- --------------------------------------------------------------------------
+---------------------------------------------------------------------------
 ValueError
 Traceback(most
 recent
