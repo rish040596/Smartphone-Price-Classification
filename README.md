@@ -1,6 +1,6 @@
 # Smartphone-Price-Classification
 
-Classification techniques like CART, Logistic Regression, Random Forest, Naïve Bayes ,Decision tree using Gini Impurity, AdaBoost under SVM, and KNN used to classify the price range of Smartphones.
+Classification techniques like CART, Logistic Regression, Random Forest, Naïve Bayes, Decision tree using Gini Impurity, AdaBoost under SVM, and KNN used to classify the price range of Smartphones.
 
 Smartphones classified into 4 categories:
 
